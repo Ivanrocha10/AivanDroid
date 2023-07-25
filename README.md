@@ -6,7 +6,7 @@ AivanDroid é um projeto com um objetivo simples, levando em conta que ele é um
 
 ## Demonstração
 
-![App Screenshot](./image/capa.jpg)
+![App Screenshot](./image/AivanDroid.gif)
 
 
 ## 💻 Tech Stack:
